@@ -2,7 +2,7 @@
 **Will Peterson** <br />
 Email: wcp7cp@virginia.edu <br />
 LinkedIn: https://www.linkedin.com/in/willpeterson76/ <br />
-Repo: https://github.com/your_username/repo_name <br />
+Repo: https://github.com/willyptrain/tempus_bioinformatics/tree/main <br />
 
 ## Instructions:
 Tempus Bioinformatics Challenge: For this challenge, you are asked to prototype a variant annotation tool. We will provide you with a VCF file, and you will create a small software program to annotate each variant in the file.
